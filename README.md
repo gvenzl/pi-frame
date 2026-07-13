@@ -1,5 +1,5 @@
 # pi-frame
-An auto-updating, private picture &amp; video frame using a Raspberry Pi.
+Pi-Frame - an auto-updating, private picture &amp; video frame using a Raspberry Pi.
 
 Read more about the story at [Turning your Raspberry Pi into a picture and video frame](https://www.geraldonit.com/turning-your-raspberry-pi-into-a-picture-and-video-frame/).
 
@@ -24,3 +24,7 @@ The script expects `sudo` privileges for whichever user runs the script, meaning
 ```bash
 ./install.sh
 ```
+
+# Uninstallation
+
+Run `uninstall.sh` to uninstall Pi-Frame.
