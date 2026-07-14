@@ -34,8 +34,8 @@
 # Usage (normally called by systemd, not directly):
 #   ./pi-frame-ingest.sh <input_dirs> <display_dir> <socket> <max_width_px> <max_height_px> [poll_interval_seconds]
 #
-# Requires: imagemagick socat
-#   sudo apt install -y imagemagick socat
+# Requires: imagemagick ffmpeg socat
+#   sudo apt install -y imagemagick ffmpeg socat
 #
 # Copyright (c) 2026 Gerald Venzl
 #
